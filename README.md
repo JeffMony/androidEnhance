@@ -1,5 +1,10 @@
 # androidEnhance
-android 开发者文档分享
+本项目主要是针对工作的一些总结:
+> * 1.Android 音视频 
+> * 2.Chromium源码指南
+> * 3.Android Camera 学习指南
+> * 4.Android 源码指南
+
 ### 1.Android 音视频开发
 [多媒体工程师必备技能](https://www.jianshu.com/p/c731515edb9d)<br>
 [MediaPlayer 播放器全面剖析(一)](https://www.jianshu.com/p/db7104daa842)<br>
