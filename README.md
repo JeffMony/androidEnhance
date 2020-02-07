@@ -14,7 +14,13 @@
 [Android 平台音视频编辑功能 汇总](https://www.jianshu.com/p/cafac2b1c4fe)<br>
 [HLS格式解析](https://www.jianshu.com/p/dbac4c041de8)<br>
 [Android 平台视频边下边播技术](https://www.jianshu.com/p/27085da32a35)<br>
+#### ExoPlayer 汇总
+[ExoPlayer 学习资料总结](https://www.jianshu.com/p/f48ea1b5708a)<br>
 [ExoPlayer 架构剖析](https://www.jianshu.com/p/f506c279e4e5)<br>
+[一个ExoPlayer anr引发的思考](https://www.jianshu.com/p/b5dff25409bb)<br>
+#### ijkplayer 汇总
+[ijkplayer 开源项目分析(一)编译](https://www.jianshu.com/p/026d6071514f)<br>
+#### VLC 汇总
 
 ### 2.Chromium源码指南
 [Chromium内核原理之多进程架构](https://www.jianshu.com/p/bb50ea1a5e92)<br>
@@ -44,7 +50,7 @@
 [Android Camera原理之camera provider启动](https://www.jianshu.com/p/5758f14f924e)<br>
 [Android Camera原理之camx hal架构之cam chi](https://www.jianshu.com/p/80de4a6e478c)<br>
 [Android Camera原理之camx hal架构](https://www.jianshu.com/p/cfb1da9d4217)<br>
-[Android Camera 原理之拍照流程zsl优化方案](https://www.jianshu.com/p/3beb7403025f)<br>
+[Android Camera原理之拍照流程zsl优化方案](https://www.jianshu.com/p/3beb7403025f)<br>
 
 ### 4.Android 源码指南
 [Android系统服务概要](https://www.jianshu.com/p/923eb572f771)<br>
