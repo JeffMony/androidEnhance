@@ -47,20 +47,22 @@
 [Android Camera 原理之拍照流程zsl优化方案](https://www.jianshu.com/p/3beb7403025f)<br>
 
 ### 4.Android 源码指南
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[Android系统服务概要](https://www.jianshu.com/p/923eb572f771)<br>
+[ActivityManagerService架构剖析开篇](https://www.jianshu.com/p/17b2844b2a27)<br>
+[WindowManagerService架构剖析开篇](https://www.jianshu.com/p/6e575d9160f2)<br>
+[WindowManagerService架构剖析之addWindow流程](https://www.jianshu.com/p/effaff9ab9f2)<br>
+[WindowManagerService架构剖析之窗口分组与分层](https://www.jianshu.com/p/3528255475a2)<br>
+[WindowManagerService架构剖析之token分析](https://www.jianshu.com/p/23bce4f5f8ea)<br>
+[PackageManagerService架构剖析开篇](https://www.jianshu.com/p/3daf7fe89ac0)<br>
+[PMS/AMS剖析之应用开机自启动](https://www.jianshu.com/p/c9e43905e6b6)<br>
+[任务调度JobScheduler源码剖析](https://www.jianshu.com/p/34c7d7529d9c)<br>
+[Android广播剖析之广播注册](https://www.jianshu.com/p/914cf861d9d9)<br>
+[Android源码剖析之Exception前世今生](https://www.jianshu.com/p/eaecb459f217)<br>
+[Android源码剖析之ANR前世今生](https://www.jianshu.com/p/914df9091a80)<br>
+[Android源码剖析之WatchDog前世今生](https://www.jianshu.com/p/9febfd0e9201)<br>
+[Android广播剖析之发送广播、接收广播](https://www.jianshu.com/p/d0ab021a65f9)<br>
+[Service组件源码全面剖析](https://www.jianshu.com/p/8170b9f1e4af)<br>
+[Android应用程序启动](https://www.jianshu.com/p/7687b4f6b683)<br>
+[Android启动时应用程序解析与安装](Android启动时应用程序解析与安装)<br>
+[Android源码指南之Launcher剖析](https://www.jianshu.com/nb/27259867)<br>
 
