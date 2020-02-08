@@ -1,4 +1,5 @@
 # androidEnhance
+
 本项目主要是针对工作的一些总结:
 > * 1.Android 音视频
 > * 2.Chromium源码指南
@@ -14,14 +15,14 @@
 [Android 平台音视频编辑功能 汇总](https://www.jianshu.com/p/cafac2b1c4fe)<br>
 [HLS格式解析](https://www.jianshu.com/p/dbac4c041de8)<br>
 [Android 平台视频边下边播技术](https://www.jianshu.com/p/27085da32a35)<br>
-#### ExoPlayer 汇总
+#### 1.1 ExoPlayer 汇总
 [ExoPlayer 学习资料总结](https://www.jianshu.com/p/f48ea1b5708a)<br>
 [ExoPlayer 架构剖析](https://www.jianshu.com/p/f506c279e4e5)<br>
 [一个ExoPlayer anr引发的思考](https://www.jianshu.com/p/b5dff25409bb)<br>
-#### ijkplayer 汇总
+#### 1.2 ijkplayer 汇总
 [ijkplayer 开源项目分析(一)编译](https://www.jianshu.com/p/026d6071514f)<br>
 [ijkplayer 开源项目分析(二)播放流程概要](https://www.jianshu.com/p/3fb005f9378b)<br>
-#### VLC 汇总
+#### 1.3 VLC 汇总
 
 ### 2.Chromium源码指南
 [Chromium内核原理之多进程架构](https://www.jianshu.com/p/bb50ea1a5e92)<br>
