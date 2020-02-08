@@ -1,6 +1,6 @@
 # androidEnhance
 本项目主要是针对工作的一些总结:
-> * 1.Android 音视频 
+> * 1.Android 音视频
 > * 2.Chromium源码指南
 > * 3.Android Camera 学习指南
 > * 4.Android 源码指南
@@ -20,6 +20,7 @@
 [一个ExoPlayer anr引发的思考](https://www.jianshu.com/p/b5dff25409bb)<br>
 #### ijkplayer 汇总
 [ijkplayer 开源项目分析(一)编译](https://www.jianshu.com/p/026d6071514f)<br>
+[ijkplayer 开源项目分析(二)播放流程概要](https://www.jianshu.com/p/3fb005f9378b)<br>
 #### VLC 汇总
 
 ### 2.Chromium源码指南
@@ -71,4 +72,3 @@
 [Android应用程序启动](https://www.jianshu.com/p/7687b4f6b683)<br>
 [Android启动时应用程序解析与安装](Android启动时应用程序解析与安装)<br>
 [Android源码指南之Launcher剖析](https://www.jianshu.com/nb/27259867)<br>
-
