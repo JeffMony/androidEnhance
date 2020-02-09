@@ -22,6 +22,7 @@
 #### 1.2 ijkplayer 汇总
 [ijkplayer 开源项目分析(一)编译](https://www.jianshu.com/p/026d6071514f)<br>
 [ijkplayer 开源项目分析(二)播放流程概要](https://www.jianshu.com/p/3fb005f9378b)<br>
+[ijkplayer 开源项目分析(三)msg_queue消息机制剖析](https://www.jianshu.com/p/ce6e1ef8dda0)<br>
 #### 1.3 VLC 汇总
 
 ### 2.Chromium源码指南
